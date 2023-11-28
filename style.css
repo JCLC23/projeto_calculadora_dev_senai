@@ -1,0 +1,117 @@
+.btn {
+    width: 50px;
+    height: 50px;
+    margin: 0 7.5;
+    text-align: center;
+    color: #fff;
+    background-color: #354357;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn:hover {
+    background-color: #6c63ff;
+
+}
+
+#btn-c {
+    width: 158px;
+}
+
+#btn-equal {
+    width: 104px;
+}
+
+main {
+    background-color: #1d293a;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+}
+
+main h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+body {
+    background-color: rgb(24, 17, 45);
+}
+
+.calculo {
+    display: flex;
+}
+
+#displayContent {
+    background-color: #1d293a;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 6px;
+    width: 195px;
+    height: 50px;
+    border: 1px solid #1d293a;
+    /* border: none; */
+    text-align: right;
+}
+
+.btn-container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 9px;
+}
+
+* {
+    font-size: ;
+}
+
+div {
+    text-align: center;
+}
+
+/* body {
+    background-color: bisque;
+}
+
+main {
+    background-color: rgb(168, 227, 227);
+}
+
+input {
+    padding: 10px;
+    background-color: rgb(44, 42, 42);
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+.btn {
+    width: 50px;
+    height: 50px;
+    margin: 0 7.5;
+    text-align: center;
+    color: #fff;
+    background-color: #354357;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+section {
+
+}
+ 
+div {
+
+} */
